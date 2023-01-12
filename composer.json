@@ -1,0 +1,8 @@
+{
+    "name": "jskrd/coding-style",
+    "description": "My preferred coding style for PHP.",
+    "require-dev": {
+        "laravel/pint": "^1.0"
+    },
+    "license": "MIT"
+}

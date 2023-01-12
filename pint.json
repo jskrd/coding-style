@@ -1,0 +1,29 @@
+{
+    "preset": "psr12",
+    "rules": {
+        "array_indentation": true,
+        "concat_space": {
+            "spacing": "one"
+        },
+        "function_declaration": {
+            "closure_fn_spacing": "none",
+            "closure_function_spacing": "one",
+            "trailing_comma_single_line": false
+        },
+        "method_chaining_indentation": true,
+        "ordered_imports": {
+            "imports_order": null,
+            "sort_algorithm": "alpha"
+        },
+        "single_quote": true,
+        "trailing_comma_in_multiline": {
+            "after_heredoc": true,
+            "elements": [
+                "arguments",
+                "arrays",
+                "match",
+                "parameters"
+            ]
+        }
+    }
+}
