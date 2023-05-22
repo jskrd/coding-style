@@ -16,13 +16,15 @@
             "imports_order": null,
             "sort_algorithm": "alpha"
         },
-        "single_quote": true,
+        "single_quote": {
+            "strings_containing_single_quote_chars": true
+        },
         "trailing_comma_in_multiline": {
             "after_heredoc": true,
             "elements": [
                 "arguments",
                 "arrays",
-                "match",
+                "match", 
                 "parameters"
             ]
         }
