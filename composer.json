@@ -1,5 +1,5 @@
 {
-    "name": "jskrd/coding-style",
+    "name": "skrd-io/coding-style",
     "description": "My preferred coding style for PHP.",
     "require-dev": {
         "laravel/pint": "^1.0"
