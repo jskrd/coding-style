@@ -1,6 +1,6 @@
 {
-    "name": "skrd-io/coding-style",
-    "description": "Code styling",
+    "name": "jskrd/pint-config",
+    "description": "Laravel Pint config for PHP code formatting",
     "require-dev": {
         "laravel/pint": "^1.0"
     },
